@@ -21,7 +21,7 @@ The `install.sh` script will automatically set up the necessary configurations a
 Clone this repository to your local machine by running the following command in your terminal:
 
 ```bash
-git clone https://github.com/ninanathalie/dotfiles.git
+git clone https://github.com/ninanathalie/.dotfiles.git
 ```
 
 #### 2. Navigate to the Dotfiles Directory
